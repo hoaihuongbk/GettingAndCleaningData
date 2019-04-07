@@ -4,7 +4,7 @@
 - Load data from files to R using *read.table* function. There are 8 files:
 + features.txt: list all variables in dataset
 + activity_labels.txt: list all activity
-+ For test/train data we have 2 group: subject_, y_, and X_ files.
++ For test/train data we have 2 groups for: subject_, y_, and X_ files.
 
 ## Step 2:
 - Combine test/train data to using *rbind* function
